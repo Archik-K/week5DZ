@@ -1,0 +1,70 @@
+.section {
+    margin: 0%;
+    width: 50%;
+    height: 40vh;
+    background: #60ffcf;
+    padding: 0;
+
+}
+
+.main {
+    display: flex;
+    text-align: center;
+}
+
+.aside {
+    height: 40vh;
+    margin: 0%;
+    width: 50%;
+    background: #60ff68;
+    padding: 0;
+
+}
+
+body {
+    margin: 0;
+}
+
+
+.header {
+    height: 10vh;
+    margin: auto;
+    background: #e5cbcb;
+    text-align: center;
+    font: 45px Georgia;
+}
+
+.p1,
+.p2 {
+    margin: 6%;
+    width: 35%;
+    height: 7vh;
+    display: inline-flex;
+    background: #ff60f7;
+    text-align: center;
+    /* Не понимаю, почему не встает по центру...*/
+
+}
+
+.p3 {
+    margin: 6%;
+    width: 80%;
+    height: 7vh;
+    background: #ff60f7;
+
+}
+
+.p4,
+.p5,
+.p6,
+.p7 {
+    margin: 6.8%;
+    width: 24vw;
+    height: 7vh;
+    background: #60ffcf;
+    text-align: center;
+}
+
+.footer {
+    display: inline-flex;
+}
